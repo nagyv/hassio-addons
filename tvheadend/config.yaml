@@ -1,17 +1,14 @@
 arch:
-- aarch64
-- amd64
-- armhf
-- armv7
-- i386
+  - aarch64
+  - amd64
 description: TV streaming server and recorder.
 devices:
-- /dev/dvb
-- /dev/dri
-image: ghcr.io/gauthamvarmak/tvheadend/{arch}
+  - /dev/dvb
+  - /dev/dri
+image: ghcr.io/nagyv/tvheadend/{arch}
 init: false
 map:
-- config:rw
+  - addon_config:rw
 name: TVHeadend
 options:
   init_commands: []
@@ -24,11 +21,11 @@ ports_description:
   9982/tcp: TVH HTSP
 schema:
   init_commands:
-  - str
+    - str
   system_packages:
-  - str
+    - str
 slug: tvheadend
 stage: experimental
-url: https://github.com/GauthamVarmaK/addon-tvheadend
+url: https://github.com/nagyv/addon-tvheadend
 version: 2.4.4
 webui: http://[HOST]:[PORT:9981]/

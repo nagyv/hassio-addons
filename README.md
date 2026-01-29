@@ -1,4 +1,4 @@
-# Home Assistant Add-ons by GauthamVarmaK
+# Home Assistant Add-ons by nagyv
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
@@ -13,7 +13,7 @@ providing extra Home Assistant add-ons for your installation.
 
 The primary goal of this project is to provide you (as a Home Assistant user)
 with additional, high quality, add-ons that allow you to take your automated
-home to the next level, developed by [GauthamVarmaK][gautham].
+home to the next level, developed by [nagyv][nagyv].
 
 This has been possible thanks to the community add-ons initiative by [Frenck]
 
@@ -25,7 +25,7 @@ Adding this add-ons repository to your Home Assistant instance is pretty easy. I
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/GauthamVarmaK/hassio-addons
+https://github.com/nagyv/hassio-addons
 ```
 
 [![Opens your Home Assistant instance and show the add add-on repository dialog with the repository URL pre-filled](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)][my-ha-add-repo]
@@ -84,7 +84,7 @@ Thank you for being involved! :heart_eyes:
 
 MIT License
 
-Copyright (c) 2020-2021 Gautham Varma K
+Copyright (c) 2020-2021 nagyv Varma K
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -104,21 +104,21 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-tvheadend]: https://github.com/GauthamVarmaK/addon-tvheadend/tree/v2.4.4
-[addon-doc-tvheadend]: https://github.com/GauthamVarmaK/addon-tvheadend/blob/v2.4.4/README.md
-[tvheadend-issue]: https://github.com/GauthamVarmaK/addon-tvheadend/issues
+[addon-tvheadend]: https://github.com/nagyv/addon-tvheadend/tree/v2.4.4
+[addon-doc-tvheadend]: https://github.com/nagyv/addon-tvheadend/blob/v2.4.4/README.md
+[tvheadend-issue]: https://github.com/nagyv/addon-tvheadend/issues
 [tvheadend-version-shield]: https://img.shields.io/badge/version-v2.4.4-blue.svg
 [tvheadend-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tvheadend-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tvheadend-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tvheadend-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[forum]: https://community.home-assistant.io?u=GauthamVarmaK
+[forum]: https://community.home-assistant.io?u=nagyv
 [frenck]: https://github.com/frenck
-[gautham]: https://github.com/GauthamVarmaK
-[issue]: https://github.com/GauthamVarmaK/hassio-addons/issues
-[license-shield]: https://img.shields.io/github/license/GauthamVarmaK/hassio-addons.svg
+[nagyv]: https://github.com/nagyv
+[issue]: https://github.com/nagyv/hassio-addons/issues
+[license-shield]: https://img.shields.io/github/license/nagyv/hassio-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
-[my-ha-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FGauthamVarmaK%2Fhassio-addons
+[my-ha-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fnagyv%2Fhassio-addons
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html

@@ -1,5 +1,5 @@
 ## What’s changed
-- 🛂 Update exec permissions ([ad2e249](https://github.com/GauthamVarmaK/addon-tvheadend/commit/ad2e249a878233eb685fb5655fa4e399a57e7ab5)) - This should fix potential crashes on addon startup
+- 🛂 Update exec permissions ([ad2e249](https://github.com/nagyv/addon-tvheadend/commit/ad2e249a878233eb685fb5655fa4e399a57e7ab5)) - This should fix potential crashes on addon startup
 
 ## ⬆️ Dependency updates
 
