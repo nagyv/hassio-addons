@@ -27,5 +27,5 @@ schema:
 slug: tvheadend
 stage: experimental
 url: https://github.com/nagyv/addon-tvheadend
-version: 2.4.4
+version: 3.0.1
 webui: http://[HOST]:[PORT:9981]/
